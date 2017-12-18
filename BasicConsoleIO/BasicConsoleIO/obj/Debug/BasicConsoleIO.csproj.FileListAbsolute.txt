@@ -1,0 +1,7 @@
+c:\users\marcus.hansson\source\repos\BasicConsoleIO\BasicConsoleIO\bin\Debug\BasicConsoleIO.exe.config
+c:\users\marcus.hansson\source\repos\BasicConsoleIO\BasicConsoleIO\bin\Debug\BasicConsoleIO.exe
+c:\users\marcus.hansson\source\repos\BasicConsoleIO\BasicConsoleIO\bin\Debug\BasicConsoleIO.pdb
+c:\users\marcus.hansson\source\repos\BasicConsoleIO\BasicConsoleIO\obj\Debug\BasicConsoleIO.csprojResolveAssemblyReference.cache
+c:\users\marcus.hansson\source\repos\BasicConsoleIO\BasicConsoleIO\obj\Debug\BasicConsoleIO.csproj.CoreCompileInputs.cache
+c:\users\marcus.hansson\source\repos\BasicConsoleIO\BasicConsoleIO\obj\Debug\BasicConsoleIO.exe
+c:\users\marcus.hansson\source\repos\BasicConsoleIO\BasicConsoleIO\obj\Debug\BasicConsoleIO.pdb

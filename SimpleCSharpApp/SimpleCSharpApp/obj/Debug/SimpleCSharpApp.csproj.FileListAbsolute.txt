@@ -1,0 +1,7 @@
+c:\users\marcus.hansson\source\repos\SimpleCSharpApp\SimpleCSharpApp\bin\Debug\SimpleCSharpApp.exe.config
+c:\users\marcus.hansson\source\repos\SimpleCSharpApp\SimpleCSharpApp\bin\Debug\SimpleCSharpApp.exe
+c:\users\marcus.hansson\source\repos\SimpleCSharpApp\SimpleCSharpApp\bin\Debug\SimpleCSharpApp.pdb
+c:\users\marcus.hansson\source\repos\SimpleCSharpApp\SimpleCSharpApp\obj\Debug\SimpleCSharpApp.csprojResolveAssemblyReference.cache
+c:\users\marcus.hansson\source\repos\SimpleCSharpApp\SimpleCSharpApp\obj\Debug\SimpleCSharpApp.csproj.CoreCompileInputs.cache
+c:\users\marcus.hansson\source\repos\SimpleCSharpApp\SimpleCSharpApp\obj\Debug\SimpleCSharpApp.exe
+c:\users\marcus.hansson\source\repos\SimpleCSharpApp\SimpleCSharpApp\obj\Debug\SimpleCSharpApp.pdb
