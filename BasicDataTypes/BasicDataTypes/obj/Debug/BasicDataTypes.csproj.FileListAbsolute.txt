@@ -1,0 +1,7 @@
+c:\users\marcus.hansson\source\repos\BasicDataTypes\BasicDataTypes\bin\Debug\BasicDataTypes.exe.config
+c:\users\marcus.hansson\source\repos\BasicDataTypes\BasicDataTypes\bin\Debug\BasicDataTypes.exe
+c:\users\marcus.hansson\source\repos\BasicDataTypes\BasicDataTypes\bin\Debug\BasicDataTypes.pdb
+c:\users\marcus.hansson\source\repos\BasicDataTypes\BasicDataTypes\obj\Debug\BasicDataTypes.csprojResolveAssemblyReference.cache
+c:\users\marcus.hansson\source\repos\BasicDataTypes\BasicDataTypes\obj\Debug\BasicDataTypes.csproj.CoreCompileInputs.cache
+c:\users\marcus.hansson\source\repos\BasicDataTypes\BasicDataTypes\obj\Debug\BasicDataTypes.exe
+c:\users\marcus.hansson\source\repos\BasicDataTypes\BasicDataTypes\obj\Debug\BasicDataTypes.pdb
