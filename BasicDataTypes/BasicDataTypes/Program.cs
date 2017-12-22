@@ -4,6 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+// Big integer lives here
+using System.Numerics;
+
 namespace BasicDataTypes
 {
     class Program
@@ -18,7 +21,97 @@ namespace BasicDataTypes
             ObjectFunctionality();
             // Check Data Types functionality
             DataTypeFunctionality();
+            // Test out true/falsestring for bool
+            BoolTrueFalseFunctionality();
+            // Test Character Functionality
+            CharFunctionality();
+            // Testing parsing to and from strings
+            ParseFromStrings();
+            // Try out the DateTime and TimeSpan classes
+            UseDatesAndTimes();
+            // bigInt
+            UseBigInteger();
             Console.ReadLine();
+        }
+
+        private static void UseBigInteger()
+        {
+            ConsoleColor prevColor = Console.ForegroundColor;
+            Console.ForegroundColor = ConsoleColor.DarkRed;
+            Console.WriteLine("=> Use BigInteger:");
+            BigInteger biggy = BigInteger.Parse("99999999999999999999999999999999999999999999999999");
+            Console.WriteLine("Value of biggy is {0}",biggy);
+            Console.WriteLine("Is biggy an even value?: {0}",biggy.IsEven);
+            Console.WriteLine("Is biggy a power of two?: {0}",biggy.IsPowerOfTwo);
+            BigInteger reallyBig = BigInteger.Multiply(biggy, BigInteger.Parse("8888888888888888888888888888888888888888"));
+            Console.WriteLine("Value of reallyBig is {0}",reallyBig);
+            Console.WriteLine();
+            Console.ForegroundColor = prevColor;
+        }
+
+        private static void UseDatesAndTimes()
+        {
+            ConsoleColor prevColor = Console.ForegroundColor;
+            Console.ForegroundColor = ConsoleColor.DarkGreen;
+            Console.WriteLine("=> dates and Times:");
+            // This constructor takes (year, month, day).
+            DateTime dt = new DateTime(1990, 05, 02);
+            // What date of the month is this?
+            Console.WriteLine("The day of {0} is {1}", dt.Date, dt.DayOfWeek);
+            // Month is now December
+            dt = dt.AddMonths(7);
+            Console.WriteLine("Daylight savings: {0}",dt.IsDaylightSavingTime());
+            // This constructor takes (hours, minutes, seconds).
+            TimeSpan ts = new TimeSpan(4, 30, 0);
+            Console.WriteLine(ts);
+            // Subtract 15 minutes frpm the current TimeSpan and
+            // print the results
+            Console.WriteLine(ts.Subtract(new TimeSpan(0,15,0)));
+            Console.WriteLine();
+            Console.ForegroundColor = prevColor;
+        }
+
+        private static void ParseFromStrings()
+        {
+            ConsoleColor prevColor = Console.ForegroundColor;
+            Console.ForegroundColor = ConsoleColor.DarkMagenta;
+            Console.WriteLine("=> Data type parsing:");
+            bool b = bool.Parse("True");
+            Console.WriteLine("Value of b: {0}",b);
+            double d = double.Parse("99.884");
+            Console.WriteLine("Value of d: {0}",d);
+            int i = int.Parse("8");
+            Console.WriteLine("Value of i: {0}", i);
+            char c = Char.Parse("w");
+            Console.WriteLine("Value of c: {0}",c);
+            Console.WriteLine();
+            Console.ForegroundColor = prevColor;
+        }
+
+        private static void CharFunctionality()
+        {
+            ConsoleColor prevColor = Console.ForegroundColor;
+            Console.ForegroundColor = ConsoleColor.Gray;
+            Console.WriteLine("=> char type Functionality: ");
+            char myChar = 'a';
+            Console.WriteLine("char.IsDigit('a'): {0}",char.IsDigit(myChar));
+            Console.WriteLine("char.IsLetter('a'): {0}",char.IsLetter(myChar));
+            Console.WriteLine("char.IsWhiteSpace('Hello There',5): {0}", char.IsWhiteSpace("Hello There", 5));
+            Console.WriteLine("char.IsWhiteSpace('Hello There',6): {0}", char.IsWhiteSpace("Hello There", 6));
+            Console.WriteLine("char.IsPunctuation('?'): {0}", char.IsPunctuation('?'));
+            Console.WriteLine();
+            Console.ForegroundColor = prevColor;
+        }
+
+        private static void BoolTrueFalseFunctionality()
+        {
+            ConsoleColor prevColor = Console.ForegroundColor;
+            Console.ForegroundColor = ConsoleColor.DarkCyan;
+            Console.WriteLine("=> Testing BoolStrings:");
+            Console.WriteLine("bool.FalseString: {0}",bool.FalseString);
+            Console.WriteLine("bool.TrueString: {0}",bool.TrueString);
+            Console.WriteLine();
+            Console.ForegroundColor = prevColor;
         }
 
         private static void DataTypeFunctionality()

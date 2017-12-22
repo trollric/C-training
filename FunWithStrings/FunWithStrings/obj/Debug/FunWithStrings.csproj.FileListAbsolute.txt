@@ -1,0 +1,7 @@
+C:\Users\marcus.hansson\source\repos\FunWithStrings\FunWithStrings\bin\Debug\FunWithStrings.exe.config
+C:\Users\marcus.hansson\source\repos\FunWithStrings\FunWithStrings\bin\Debug\FunWithStrings.exe
+C:\Users\marcus.hansson\source\repos\FunWithStrings\FunWithStrings\bin\Debug\FunWithStrings.pdb
+C:\Users\marcus.hansson\source\repos\FunWithStrings\FunWithStrings\obj\Debug\FunWithStrings.csprojResolveAssemblyReference.cache
+C:\Users\marcus.hansson\source\repos\FunWithStrings\FunWithStrings\obj\Debug\FunWithStrings.csproj.CoreCompileInputs.cache
+C:\Users\marcus.hansson\source\repos\FunWithStrings\FunWithStrings\obj\Debug\FunWithStrings.exe
+C:\Users\marcus.hansson\source\repos\FunWithStrings\FunWithStrings\obj\Debug\FunWithStrings.pdb

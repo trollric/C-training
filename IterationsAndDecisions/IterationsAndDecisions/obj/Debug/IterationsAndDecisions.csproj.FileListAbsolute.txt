@@ -1,0 +1,7 @@
+C:\Users\marcus.hansson\source\repos\IterationsAndDecisions\IterationsAndDecisions\bin\Debug\IterationsAndDecisions.exe.config
+C:\Users\marcus.hansson\source\repos\IterationsAndDecisions\IterationsAndDecisions\bin\Debug\IterationsAndDecisions.exe
+C:\Users\marcus.hansson\source\repos\IterationsAndDecisions\IterationsAndDecisions\bin\Debug\IterationsAndDecisions.pdb
+C:\Users\marcus.hansson\source\repos\IterationsAndDecisions\IterationsAndDecisions\obj\Debug\IterationsAndDecisions.csproj.CoreCompileInputs.cache
+C:\Users\marcus.hansson\source\repos\IterationsAndDecisions\IterationsAndDecisions\obj\Debug\IterationsAndDecisions.exe
+C:\Users\marcus.hansson\source\repos\IterationsAndDecisions\IterationsAndDecisions\obj\Debug\IterationsAndDecisions.pdb
+C:\Users\marcus.hansson\source\repos\IterationsAndDecisions\IterationsAndDecisions\obj\Debug\IterationsAndDecisions.csprojResolveAssemblyReference.cache

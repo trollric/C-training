@@ -1,0 +1,7 @@
+C:\Users\marcus.hansson\source\repos\TypeConversions\TypeConversions\bin\Debug\TypeConversions.exe.config
+C:\Users\marcus.hansson\source\repos\TypeConversions\TypeConversions\bin\Debug\TypeConversions.exe
+C:\Users\marcus.hansson\source\repos\TypeConversions\TypeConversions\bin\Debug\TypeConversions.pdb
+C:\Users\marcus.hansson\source\repos\TypeConversions\TypeConversions\obj\Debug\TypeConversions.csproj.CoreCompileInputs.cache
+C:\Users\marcus.hansson\source\repos\TypeConversions\TypeConversions\obj\Debug\TypeConversions.exe
+C:\Users\marcus.hansson\source\repos\TypeConversions\TypeConversions\obj\Debug\TypeConversions.pdb
+C:\Users\marcus.hansson\source\repos\TypeConversions\TypeConversions\obj\Debug\TypeConversions.csprojResolveAssemblyReference.cache
