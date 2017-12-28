@@ -1,0 +1,7 @@
+C:\Users\marcus.hansson\source\repos\FunWithMethods\FunWithMethods\bin\Debug\FunWithMethods.exe.config
+C:\Users\marcus.hansson\source\repos\FunWithMethods\FunWithMethods\bin\Debug\FunWithMethods.exe
+C:\Users\marcus.hansson\source\repos\FunWithMethods\FunWithMethods\bin\Debug\FunWithMethods.pdb
+C:\Users\marcus.hansson\source\repos\FunWithMethods\FunWithMethods\obj\Debug\FunWithMethods.csprojResolveAssemblyReference.cache
+C:\Users\marcus.hansson\source\repos\FunWithMethods\FunWithMethods\obj\Debug\FunWithMethods.csproj.CoreCompileInputs.cache
+C:\Users\marcus.hansson\source\repos\FunWithMethods\FunWithMethods\obj\Debug\FunWithMethods.exe
+C:\Users\marcus.hansson\source\repos\FunWithMethods\FunWithMethods\obj\Debug\FunWithMethods.pdb
