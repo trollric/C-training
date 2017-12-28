@@ -29,6 +29,11 @@ namespace FunWithArrays
             myObjects[1] = false;
             myObjects[2] = new DateTime(1969, 3, 24);
             myObjects[3] = "Form & Void";
+            foreach(object obj in myObjects)
+            {
+                // Print the type and value for each item in array.
+                Console.WriteLine("Type: {0}, Value: {1}", obj.GetType(), obj);
+            }
 
             Console.WriteLine();
             Console.ForegroundColor = precColor;
