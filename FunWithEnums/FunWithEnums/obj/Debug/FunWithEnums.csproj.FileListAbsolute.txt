@@ -1,0 +1,7 @@
+C:\Users\marcus.hansson\source\repos\FunWithEnums\FunWithEnums\bin\Debug\FunWithEnums.exe.config
+C:\Users\marcus.hansson\source\repos\FunWithEnums\FunWithEnums\bin\Debug\FunWithEnums.exe
+C:\Users\marcus.hansson\source\repos\FunWithEnums\FunWithEnums\bin\Debug\FunWithEnums.pdb
+C:\Users\marcus.hansson\source\repos\FunWithEnums\FunWithEnums\obj\Debug\FunWithEnums.csprojResolveAssemblyReference.cache
+C:\Users\marcus.hansson\source\repos\FunWithEnums\FunWithEnums\obj\Debug\FunWithEnums.csproj.CoreCompileInputs.cache
+C:\Users\marcus.hansson\source\repos\FunWithEnums\FunWithEnums\obj\Debug\FunWithEnums.exe
+C:\Users\marcus.hansson\source\repos\FunWithEnums\FunWithEnums\obj\Debug\FunWithEnums.pdb

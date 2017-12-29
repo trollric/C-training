@@ -1,0 +1,7 @@
+C:\Users\marcus.hansson\source\repos\FunWithStructures\FunWithStructures\bin\Debug\FunWithStructures.exe.config
+C:\Users\marcus.hansson\source\repos\FunWithStructures\FunWithStructures\bin\Debug\FunWithStructures.exe
+C:\Users\marcus.hansson\source\repos\FunWithStructures\FunWithStructures\bin\Debug\FunWithStructures.pdb
+C:\Users\marcus.hansson\source\repos\FunWithStructures\FunWithStructures\obj\Debug\FunWithStructures.csprojResolveAssemblyReference.cache
+C:\Users\marcus.hansson\source\repos\FunWithStructures\FunWithStructures\obj\Debug\FunWithStructures.csproj.CoreCompileInputs.cache
+C:\Users\marcus.hansson\source\repos\FunWithStructures\FunWithStructures\obj\Debug\FunWithStructures.exe
+C:\Users\marcus.hansson\source\repos\FunWithStructures\FunWithStructures\obj\Debug\FunWithStructures.pdb

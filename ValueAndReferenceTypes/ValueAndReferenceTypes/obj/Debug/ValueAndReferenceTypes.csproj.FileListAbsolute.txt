@@ -1,0 +1,7 @@
+C:\Users\marcus.hansson\source\repos\ValueAndReferenceTypes\ValueAndReferenceTypes\bin\Debug\ValueAndReferenceTypes.exe.config
+C:\Users\marcus.hansson\source\repos\ValueAndReferenceTypes\ValueAndReferenceTypes\bin\Debug\ValueAndReferenceTypes.exe
+C:\Users\marcus.hansson\source\repos\ValueAndReferenceTypes\ValueAndReferenceTypes\bin\Debug\ValueAndReferenceTypes.pdb
+C:\Users\marcus.hansson\source\repos\ValueAndReferenceTypes\ValueAndReferenceTypes\obj\Debug\ValueAndReferenceTypes.csprojResolveAssemblyReference.cache
+C:\Users\marcus.hansson\source\repos\ValueAndReferenceTypes\ValueAndReferenceTypes\obj\Debug\ValueAndReferenceTypes.csproj.CoreCompileInputs.cache
+C:\Users\marcus.hansson\source\repos\ValueAndReferenceTypes\ValueAndReferenceTypes\obj\Debug\ValueAndReferenceTypes.exe
+C:\Users\marcus.hansson\source\repos\ValueAndReferenceTypes\ValueAndReferenceTypes\obj\Debug\ValueAndReferenceTypes.pdb
