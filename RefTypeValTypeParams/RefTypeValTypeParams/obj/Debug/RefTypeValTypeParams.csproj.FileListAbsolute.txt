@@ -1,0 +1,7 @@
+C:\Users\marcus.hansson\source\repos\RefTypeValTypeParams\RefTypeValTypeParams\bin\Debug\RefTypeValTypeParams.exe.config
+C:\Users\marcus.hansson\source\repos\RefTypeValTypeParams\RefTypeValTypeParams\bin\Debug\RefTypeValTypeParams.exe
+C:\Users\marcus.hansson\source\repos\RefTypeValTypeParams\RefTypeValTypeParams\bin\Debug\RefTypeValTypeParams.pdb
+C:\Users\marcus.hansson\source\repos\RefTypeValTypeParams\RefTypeValTypeParams\obj\Debug\RefTypeValTypeParams.csprojResolveAssemblyReference.cache
+C:\Users\marcus.hansson\source\repos\RefTypeValTypeParams\RefTypeValTypeParams\obj\Debug\RefTypeValTypeParams.csproj.CoreCompileInputs.cache
+C:\Users\marcus.hansson\source\repos\RefTypeValTypeParams\RefTypeValTypeParams\obj\Debug\RefTypeValTypeParams.exe
+C:\Users\marcus.hansson\source\repos\RefTypeValTypeParams\RefTypeValTypeParams\obj\Debug\RefTypeValTypeParams.pdb
